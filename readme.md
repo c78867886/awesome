@@ -13,6 +13,7 @@
 - [Career](#career)
 - [Design System](#design-system)
 - [English](#english)
+- [Esperanto](#esperanto)
 - [FP](#fp)
   - [FP Lodash](#fp-lodash)
 - [Generator](#generator)
@@ -64,6 +65,11 @@
 ## English
 
 - [How to Pronounce CAN and CAN'T in BRITISH ENGLISH](https://youtu.be/IzjX0ghVSgg?t=76 "How to Pronounce CAN and CAN'T in BRITISH ENGLISH - YouTube") - Can and Can’t are different in British English.
+
+
+## Esperanto
+
+- [Etimologia vortareto](https://web.archive.org/web/20111222020427/http://www.freeweb.hu:80/etymological/Esperanto.htm "Etimologia vortareto") - The only etymology dictionary for Esperanto words I can find so far.
 
 
 ## FP
